@@ -35,3 +35,4 @@ public enum NetworkError: Error {
         }
     }
 }
+

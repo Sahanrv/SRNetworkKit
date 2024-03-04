@@ -13,5 +13,4 @@ public enum RequestMethod: String {
     case put = "PUT"
     case PATCH = "PATCH"
     case delete = "DELETE"
-    
 }
